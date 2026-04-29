@@ -1,13 +1,15 @@
 theme: osuny
 _merge: deep
 params:
+  keycdn:
+    url: https://osunystaging-1b4da.kxcdn.com
   summary:
     position: hero
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo.svg'
+    footer: '/assets/images/logo.svg'
   home:
     head:
       title: site
